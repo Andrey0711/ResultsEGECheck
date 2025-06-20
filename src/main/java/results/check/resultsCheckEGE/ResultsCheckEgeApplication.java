@@ -10,6 +10,8 @@ import org.springframework.web.client.RestClient;
 import results.check.resultsCheckEGE.Exceptions.ErrorOnClientSide;
 import results.check.resultsCheckEGE.Exceptions.ErrorOnMosRuSide;
 
+import java.net.URI;
+
 @SpringBootApplication
 public class ResultsCheckEgeApplication {
 
